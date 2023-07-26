@@ -1,0 +1,9 @@
+name: crawler
+channels:
+  - defaults
+dependencies:
+  - flask
+  - gunicorn
+  - pip=23.1.2
+  - pip:
+    - requests
