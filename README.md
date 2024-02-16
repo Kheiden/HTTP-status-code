@@ -1,5 +1,5 @@
-# Crawler
-A simple crawler to check the HTTP status code of websites in the Internet.
+# HTTP Status Code
+A simple IP address randomizer to check the HTTP status code of random IPv4 addresses on the Internet.
 
 ## Installing
 conda env create -f environment.yaml
